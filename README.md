@@ -1,9 +1,7 @@
 # Stock Data Processing and Forecasting Pipeline
 
 This project aims to build a complete pipeline to acquire data of selected companies, study their market trends witha auxiliary data, and ultimately forecast stock prices.
-
 The pipeline includes data acquisition, storage, processing, exploration, and inference using the Prophet forecasting model.
-
 This project selected American Airlines Group Inc (AAL) as the source of financial data to investigate into and Covid-19 statistics to integrate with.
 
 ## Overview
